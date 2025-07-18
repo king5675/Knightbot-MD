@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# 🤖 BENZ BOT
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -9,8 +9,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  <a href="https://youtube.com/@King-of-lies-tech-x6p"> 
+    <img src="https://github.com/king5675/BENZ BOT-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,7 +23,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/king5675/BENZ BOT-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -78,7 +78,7 @@ For further customization and setup guidance, click the button below:
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029Vb4Isq4GOj9k8Iqd0513">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
@@ -117,8 +117,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
+    git clone https://github.com/king5675/BENZ-BOT-MD.git
+    cd BENZ BOT-MD
     ```
 
 2. **Install the dependencies:**
@@ -142,24 +142,24 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/king5675/BENZBOT-MD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/king5675/BENZBOT-MD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/king5675/BENZBOT)!
 
 
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
+- [Professor](https://github.com/king5675)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
